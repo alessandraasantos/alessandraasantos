@@ -1,6 +1,6 @@
 - 👋 Hello, world! Sou Alessandra Santos
 - 👀 Amo aprender coisas novas, me inventar e reinventar
-- 🌱 Sou iniciante em Front-end, possuo conhecimento em Java script, html e css etc..
+- 🌱 Sou iniciante em Front-end, possuo conhecimento em JavaScript, html e css etc..
 
 - ⚡ Estou sempre em busca de novos desafios e oportunidades para expandir meus horizontes.
 
